@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <div>
-  <head></head>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+  </head>
   <body>
 <h1>Git It Done</h1>
 <p>A Git GUI that visualizes git repositories as directed acyclic graphs. Built using Nodegit and SimpleGit to handle git backend,
