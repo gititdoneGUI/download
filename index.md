@@ -8,7 +8,7 @@ A Git GUI that visualizes git repositories as directed acyclic graphs. Built usi
 - [Download for Windows]()
 - [Download for Linux]()
 
-Functionality includes:
+## Functionality
 
 Select a local repository and render its commits as a graph to visualize workflow.
 Select a commit node and see when it was made and by which contributor.
