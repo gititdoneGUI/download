@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Git It Done
 
-You can use the [editor on GitHub](https://github.com/gititdoneGUI/download/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A Git GUI that visualizes git repositories as directed acyclic graphs. Built using Nodegit and SimpleGit to handle git backend, and React Graph Vis to visualize graphs. Built on top of electron-react-redux-boilerplate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Download Links
 
-### Markdown
+- [Download for Mac]()
+- [Download for Windows]()
+- [Download for Linux]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Functionality includes:
 
-```markdown
-Syntax highlighted code block
+Select a local repository and render its commits as a graph to visualize workflow.
+Select a commit node and see when it was made and by which contributor.
+Make commits and have the graph update in realtime.
+Keep track of local and remote branches and git status.
+Pull and push to GitHub.
+Merge branches.
+Clone repositories.
+Checkout and add and delete branches.
+Stash and fetch.
 
-# Header 1
-## Header 2
-### Header 3
+[Source Code](https://github.com/echjordan/gitgui)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contributors
+- [Lina Morales](https://github.com/sixxta)
+- [Arianna Lanz](https://github.com/AriannaLanz)
+- [Sreepriya Vaidyanath](https://github.com/SreepriyaV)
+- [Emily Jordan](https://github.com/echjordan)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gititdoneGUI/download/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```![Image](src)
