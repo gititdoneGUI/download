@@ -20,11 +20,6 @@ Clone repositories.
 Checkout and add and delete branches.
 Stash and fetch.
 
-[Source Code](https://github.com/echjordan/gitgui)
-
-
-
-
 ### Contributors
 - [Lina Morales](https://github.com/sixxta)
 - [Arianna Lanz](https://github.com/AriannaLanz)
