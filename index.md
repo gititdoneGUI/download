@@ -25,6 +25,3 @@ Stash and fetch.
 - [Arianna Lanz](https://github.com/AriannaLanz)
 - [Sreepriya Vaidyanath](https://github.com/SreepriyaV)
 - [Emily Jordan](https://github.com/echjordan)
-
-
-```![Image](src)
